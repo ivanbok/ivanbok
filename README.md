@@ -1,9 +1,12 @@
 ![seagull nebula](./seagull_nebula.jpg)
 
-- 👋 Hi, I’m @ivanbok
-- 👀 I’m interested in Web Development, Public Cloud, and on a personal level, Astronomy. 
-- 🌱 I’m currently learning about enterprise IT architecting
-- 📫 How to reach me: Connect with me on LinkedIn at https://www.linkedin.com/in/ivan-bok/
+Hello, I’m Ivan. Thank you for dropping by my GitHub page!
+
+My key interests lie in Web Development, IT Architecting and Public Cloud. I'm currently working as a Cloud Architect at Amazon Web Services, and I enjoy creating and building new things. 
+
+On a personal level, I enjoy Astronomy and Astrophotography. 
+
+If you'd like to connect with me, please add me on LinkedIn at https://www.linkedin.com/in/ivan-bok/
 
 <!---
 ivanbok/ivanbok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
