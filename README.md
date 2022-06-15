@@ -1,3 +1,5 @@
+![seagull nebula](./seagull_nebula.jpg)
+
 - 👋 Hi, I’m @ivanbok
 - 👀 I’m interested in Web Development, Public Cloud, and on a personal level, Astronomy. 
 - 🌱 I’m currently learning about enterprise IT architecting
