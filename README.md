@@ -8,6 +8,8 @@ On a personal level, I enjoy Astronomy and Astrophotography.
 
 If you'd like to connect with me, please add me on LinkedIn at https://www.linkedin.com/in/ivan-bok/
 
+Cheers!
+
 <!---
 ivanbok/ivanbok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
