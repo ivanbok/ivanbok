@@ -2,7 +2,7 @@
 
 Hello, I’m Ivan. Thank you for dropping by my GitHub page!
 
-My key interests lie in Web Development, IT Architecting and Public Cloud Services. I'm currently working as a Cloud Architect at Amazon Web Services, and I enjoy creating and building new things. Also obsessed with automation. 
+My key interests lie in Web Development, IT Architecting and Public Cloud Services. I'm currently working as a Cloud Architect at Amazon Web Services, and I enjoy creating and building new things. 
 
 On a personal level, I enjoy Astronomy and Astrophotography. 
 
